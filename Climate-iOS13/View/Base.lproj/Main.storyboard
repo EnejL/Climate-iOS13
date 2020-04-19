@@ -11,7 +11,7 @@
         <!--Weather View Controller-->
         <scene sceneID="9zT-ij-tKn">
             <objects>
-                <viewController id="Cf0-Oc-xBS" customClass="WeatherViewController" customModule="Clima" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Cf0-Oc-xBS" customClass="WeatherViewController" customModule="Climate_iOS13" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="c6Y-Oi-UVg">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
