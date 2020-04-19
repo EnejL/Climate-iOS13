@@ -1,12 +1,11 @@
 # Climate-iOS13
 
-> Learning app that provides weather data (temperature and weather condition) for the user's location or a selected place.
+> Practice app that provides weather data (temperature and weather condition) for the user's location or a selected place.
 
 [![Swift 5.2][swift-image]][swift-url]
 
 One to two paragraph statement about your product and what it does.
 
-/Users/enej/Desktop/iOS-projects/Screenshots/Climate-iOS13/Simulator Screen Shot - iPhone 11 Pro - 2020-04-19 at 21.49.19.png
 ![](header.png)
 
 ## Features
