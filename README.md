@@ -7,9 +7,9 @@
 The Climate app is a practice app that I used to further develop some of my Swift skills. I gained insight into things like CoreLocation, MVC, making API calls and parsing JSON.
 
 ![](header.png)
-![](https://github.com/EnejL/Readme-images/blob/master/Climate-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-19%20at%2021.49.19.png)
-![](https://github.com/EnejL/Readme-images/blob/master/Climate-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-19%20at%2021.49.47.png)
-![](https://github.com/EnejL/Readme-images/blob/master/Climate-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-19%20at%2021.49.56.png)
+![](https://github.com/EnejL/Readme-images/blob/master/Climate-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-19%20at%2021.49.19.png)&nbsp;&nbsp;
+![](https://github.com/EnejL/Readme-images/blob/master/Climate-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-19%20at%2021.49.47.png)&nbsp;&nbsp;
+![](https://github.com/EnejL/Readme-images/blob/master/Climate-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-19%20at%2021.49.56.png)&nbsp;&nbsp;
 ![](https://github.com/EnejL/Readme-images/blob/master/Climate-iOS13/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-04-19%20at%2021.50.01.png)
 
 ## Features
