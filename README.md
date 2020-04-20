@@ -23,7 +23,7 @@ The Climate app is a practice app that I used to further develop some of my Swif
 
 Enej Licina – YourEmail@example.com
 
-[swift-image]:https://img.shields.io/badge/swift-3.0-orange.svg
+[swift-image]:https://img.shields.io/badge/swift-5.2-orange.svg
 [swift-url]: https://swift.org/
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-url]: LICENSE
